@@ -1,1 +1,1 @@
-# Regression-based-QSPR-model
+# Classification-based-LDA-Model(CNS-BBB-permeability)
